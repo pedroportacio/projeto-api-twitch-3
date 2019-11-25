@@ -22,7 +22,7 @@ function Games() {
   }, []);
   return (
     <div>
-      <h1>Jogos Mais Populares</h1>
+      <h1 className="main"> Jogos Mais Populares</h1>
       <div className="row">
         {games.map(game => (
           <div className="col-lg-4 col-md-6 col-sm-12 mt-5">

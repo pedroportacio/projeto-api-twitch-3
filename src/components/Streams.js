@@ -40,7 +40,7 @@ function Stream() {
   }, []);
   return (
     <div>
-      <h1>Streams mais populares</h1>
+      <h1 className="main">Streams mais populares</h1>
       <div className="row">
         {channels.map(channel => (
           <div className="col-lg-4 col-md-6 col-sm-12 mt-5">
