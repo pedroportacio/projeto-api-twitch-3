@@ -9,7 +9,17 @@
 }
 
 .main {
+  padding: 70px;
   color: white;
+}
+
+.mainh4 {
+  padding: 100px;
+  color: white;
+}
+
+.space {
+  color: black;
 }
 
 .main-header {
